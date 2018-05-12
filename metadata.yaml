@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33989
     wikipedia: http://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31262#Rastignac-the-Devil
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-02-12'
 gutenberg_type: Text
